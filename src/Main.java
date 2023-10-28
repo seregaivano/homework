@@ -124,6 +124,7 @@ public class Main {
 
         // задача 8
 
+
         float salaryMasha = 67760f;
         float salaryDenis = 83690f;
         float salaryKris = 76230f;
